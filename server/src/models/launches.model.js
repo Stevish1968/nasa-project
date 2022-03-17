@@ -1,7 +1,7 @@
 const launches = new Map();
 
 let latestFlightNumber = 100;
-
+//this is the launches object
 const launch = {
   flightNumber: 100,
   mission: "Kepler Exploration xx",
